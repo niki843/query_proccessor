@@ -1,9 +1,9 @@
 # Document Retrieval System with FAISS and Google Gemini AI
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![LangChain](https://img.shields.io/badge/LangChain-0.1.0-green)
+![LangChainCommunity](https://img.shields.io/badge/LangChainCommunity-0.3.19-green)
 ![FAISS](https://img.shields.io/badge/FAISS-1.10.0-orange)
-![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-1.0.0-yellow)
+![LangChain Google Gemini AI](https://img.shields.io/badge/LangChain%20Google%20Gemini%20AI-2.1.0-yellow)
 
 A simple yet powerful document retrieval system that uses **FAISS** for fast similarity search and **Google Gemini AI** for query enhancement and semantic understanding. This system is designed to retrieve the most relevant documents from a small dataset based on user queries.
 
